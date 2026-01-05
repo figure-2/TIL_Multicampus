@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% load bootstrap5 %} 
+<!-- https://django-bootstrap-v5.readthedocs.io/en/latest/quickstart.html 에서 가져온 코드 -->
+
+
+
+{% block body %}
+
+<form action="" method="POST">
+    {% csrf_token%} 
+    <!-- POST 방식으로 받았기 때문에 올바른 데이터인지 검사 -->
+
+    <!-- {{form}} 아래 있는 form과 같은 변수 -->
+    {% bootstrap_form form %}
+    <input type="submit" class="btn btn-primary">
+</form>
+
+{% endblock %}

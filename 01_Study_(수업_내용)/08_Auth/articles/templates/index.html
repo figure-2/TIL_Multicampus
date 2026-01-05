@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% load bootstrap5 %}
+<!-- https://django-bootstrap-v5.readthedocs.io/en/latest/quickstart.html 에서 가져온 코드 -->
+
+{% block body %}
+
+{% for article in articles %}
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title">{{article.title}}</h5>
+      <p class="card-text">{{article.content}}</p>
+      <p class="card-text">{{article.user}}</p>
+    </div>
+
+    {% if requeat.user.is_authenticated %} 
+    <!-- 로그인한 사람인지 물어 보는 부분 -->
+    <div class="card-footer">
+      <form action="{% url 'articles:comment_create' article_id=article.id %}" method="POST">
+        <!-- article_id은 변수 이름 이고 article.id는 실제 데이터 -->
+        {% csrf_token %}
+        
+        <!-- {{form}} 아래 있는 form과 같은 변수 -->
+        {% bootstrap_form form %}
+        <input type="submit" class="btn btn-primary">
+     </form>
+    </div>
+    {% endif %}
+
+    <div class="card-footer" >
+      {% for comment in article.comment_set.all %}
+        <p>{{comment.user}} : {{comment.content}}</p>
+      {% endfor %}
+    </div>
+
+</div>
+{% endfor %}
+
+{% endblock %}
+
