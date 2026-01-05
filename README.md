@@ -134,3 +134,8 @@
 > 230803 학습한 내용 정리
 - [SWEA_List2](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/1_List.md) - 2차원 List, 검색, 정렬
 - [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/1206_view/sol.py) : view, sum, 파리퇴치, 색칠하기
+
+> 230804 학습한 내용 정리
+- [SWEA_List2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg) - 부분집합
+- [SWEA_String](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/2_String.md) - string, 패턴매칭
+- [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9/sol.py) : 이진탐색, 부분집합의합, 특별정렬, 회문
