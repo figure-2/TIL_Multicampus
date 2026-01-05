@@ -130,3 +130,7 @@
 > 230802 학습한 내용 정리
 - [SWEA_List1](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/1_List.md) - 알고리즘, List, Search, Sort
 - [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/tree/master/swea/0001_babygin) : babygin, sort, minmax, 전기버스, 구간합
+
+> 230803 학습한 내용 정리
+- [SWEA_List2](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/1_List.md) - 2차원 List, 검색, 정렬
+- [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/1206_view/sol.py) : view, sum, 파리퇴치, 색칠하기
