@@ -134,25 +134,25 @@
     - 댓글작성, 댓글보기, 댓글삭제
 
 > 230828 학습한 내용 정리
-- 진행 폴더명 : auth
+- 진행 폴더명 : [auth](https://github.com/figure-2/TIL_Multicampus/tree/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/08_Auth)
 - User 모델 추가
-- [Signup, Login, Logout 기능 추가](https://github.com/figure-2/TIL_Multicampus/blob/master/05_WEB/9_Django_Signup_Login.md)
+- [Signup, Login, Logout 기능 추가](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB/09_Django_Signup_Login.md)
 
 > 230829 학습한 내용 정리
-- 진행 폴더명 : auth
-- [1:N 관계설정](https://github.com/figure-2/TIL_Multicampus/blob/master/05_WEB/10_Django_1N.md)
+- 진행 폴더명 : [auth](https://github.com/figure-2/TIL_Multicampus/tree/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/08_Auth)
+- [1:N 관계설정](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB/10_Django_1N.md)
 - Create시 logout 되어있을시에 대한 처리
 - 협업할 때를 위한 라이브러리 목록 저장
 
 > 230830 학습한 내용 정리
 - 진행 폴더명 : insta
-- [Instagram 만들기 (1)](https://github.com/figure-2/TIL_Multicampus/blob/master/05_WEB/11_Django_사진업로드.md)
+- [Instagram 만들기 (1)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB/11_Django_%EC%82%AC%EC%A7%84%EC%97%85%EB%A1%9C%EB%93%9C.md)
     - 사진 업로드 : admin, createm signup을 통해
     - 컴포넌트화(_*.html) : _nav.html, _card.html
 
 > 230831 학습한 내용 정리
 - 진행 폴더명 : insta, MN
-- [Instagram 만들기 (2)](hhttps://github.com/figure-2/TIL_Multicampus/blob/master/05_WEB/12_Django_MN.md)
+- [Instagram 만들기 (2)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB/12_Django_MN.md)
     - M:N 관계 설정
     - 좋아요, 팔로우 기능 추가
 
