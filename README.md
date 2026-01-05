@@ -91,3 +91,11 @@
 - python_control_of_flow
     - [제어문](https://github.com/figure-2/python/blob/master/02_control_of_flow.ipynb)
         - 조건문(if문), 조건문(elif문), 조건표현식
+
+> 230727 학습한 내용 정리
+- python_control_of_flow
+    - [반복문](https://github.com/figure-2/python/blob/master/02_control_of_flow.ipynb) : while문, for문
+    - Pass, Match
+- [function](https://github.com/figure-2/python/blob/master/03_function.ipynb)
+    - 함수(Function) : 선언, 호출(실행), return
+- [sw Expert Academy 문제풀기](https://github.com/figure-2/Algorithm/tree/master/swea)
