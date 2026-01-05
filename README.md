@@ -118,3 +118,11 @@
 - [모듈, 패키지, 파이썬 내장 패키지](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/10_module_package.md) : math, random, datetime
 - [programmers 문제풀기](https://github.com/figure-2/Algorithm/tree/master/programmers)
 
+> 230801 학습한 내용 정리
+- [error처리](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/11_error.md) : syntax error, Exception(ZeroDivisionError, NameError ... ) , 예외처리(try except문)
+- [OOP(객체지향프로그래밍)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/12_OOP.md)
+    - 클래스(class), 인스턴스(instance), 속성(attribute), 행위(method)
+    - 생성자, 소멸자
+    - 클래스 변수, 인스턴스 변수
+    - 클래스 메소드, 인스턴스 메소드, 스태틱메소드
+    - 상속, 다중상속
