@@ -4,5 +4,8 @@
 > 01_Python
  - python 문법정리 notebook
 
+> 02_Pandas
+- Pandas 문법정리 notebook
+
 ## Today I Learned
 
