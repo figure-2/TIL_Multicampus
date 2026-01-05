@@ -107,3 +107,14 @@
 - [재귀(recursive)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/07_%EC%9E%AC%EA%B7%80.md)    
     -   팩토리얼(반복, 재귀), 피보나치수열(반복, 재귀)
 - [programmers 문제풀기](https://github.com/figure-2/Algorithm/tree/master/programmers)
+
+> 230731 학습한 내용 정리
+- [메소드](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/08_method.md)
+    - 문자열 메소드
+    - 리스트 메소드, list copy, list comprehension
+    - 딕셔너리 메소드, dict comprehension
+    - 세트 메소드
+- [map(), zip(), filter()](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/09_map_zip_filter.md)
+- [모듈, 패키지, 파이썬 내장 패키지](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/10_module_package.md) : math, random, datetime
+- [programmers 문제풀기](https://github.com/figure-2/Algorithm/tree/master/programmers)
+
