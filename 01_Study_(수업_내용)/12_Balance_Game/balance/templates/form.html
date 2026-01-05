@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load bootstrap5 %}
+
+{% block body %}
+<link rel="stylesheet" href="{% static 'css/mystyle.css' %}">
+
+<h1>Create</h1>
+<div id="form" class="mt-10">
+    <h1 style="margin-bottom: 10%; padding: 2px;"> Question 추가</h1>
+    <form action="" method = "POST" style="margin-bottom: 10%">
+    {% csrf_token %}    
+    {{form}}
+    <input type="submit" class="btn btn-dark" style="padding: 20px; margin-bottom: 1%;">
+    </form>
+</div>
+
+{% endblock %}

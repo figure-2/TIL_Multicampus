@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block body %}
+<link rel="stylesheet" href="{% static 'css/mystyle.css' %}">
+
+
+<div class="box">
+    <div id="container" >
+        <a href="{% url 'balance:answer_click' question_id=question.id %}?choice=a" style="text-align:center" class="text-reset text-decoration-none">{{question.question_a}} </a>
+        <p>{{choice_A_percent}}%</p>
+    </div>
+
+    <div id="container2">
+        <a href="{% url 'balance:answer_click' question_id=question.id %}?choice=b" style="text-align:center" class="text-reset text-decoration-none">{{question.question_b}}</a>
+        <p>{{choice_B_percent}}%</p>
+    </div>
+</div>
+    <!-- <div>{{choice_A|length}}   {{choice_B|length}}</div> -->
+{% endblock %}

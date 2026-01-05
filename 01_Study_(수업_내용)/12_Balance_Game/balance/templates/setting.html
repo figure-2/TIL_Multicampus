@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load bootstrap5 %}
+
+{% block body %}
+<link rel="stylesheet" href="{% static 'css/mystyle.css' %}">
+
+<h1>Setting</h1>
+
+<form action="" style="margin-top: 2%;" method="POST">
+    {% csrf_token %}
+    {% for question in questions %}
+        <div>{{question.question_a}} {{question.question_b}}
+        <button  class="btn btn-light" style="padding: 2px" onClick="location.reload();">delete</button ></div>
+        <hr>
+    {% endfor %}
+    
+</form>
+
+{% endblock %}
