@@ -1,6 +1,6 @@
 # Nosql
 
-## 1. [NoSQL](https://github.com/dudns1234/NoSQL/blob/master/1.NoSQL.md)
+## 1. [NoSQL](01_Study_(수업_내용)/15_NoSQL/1.NoSQL.md)
 - NoSQL 데이터베이스의 출현 배경
 - ACID와 BASE
 - NoSQL 데이터베이스의 네 가지 유형
