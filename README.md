@@ -43,5 +43,8 @@
 > 14_Data_Analysis
 - 데이터 분석
 
+> 15_NoSQL
+- Nosql 학습
+
 ## Today I Learned
 
