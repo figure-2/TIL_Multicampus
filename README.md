@@ -46,5 +46,9 @@
 > 15_NoSQL
 - Nosql 학습
 
+> 16_SQL
+- SQL 학습
+
+
 ## Today I Learned
 
