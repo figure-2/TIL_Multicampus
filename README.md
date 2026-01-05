@@ -49,6 +49,9 @@
 > 16_SQL
 - SQL 학습
 
+> 17_Web-Scraping
+- 크롤링, 스크래핑
+
 
 ## Today I Learned
 
