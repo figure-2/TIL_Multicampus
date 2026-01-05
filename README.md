@@ -58,6 +58,17 @@
 > 19_zepplin
 - Zepplin 학습
 
+> 20_Airflow
+- Airflow 학습
+
+> 21_Kafka
+- Kafka 학습
+
+> 22_Spark-Streaming
+- Spark-Streaming 학습
+
+> 23_Kafka-spark-streaming
+- Kafka-spark-streaming 학습
 
 ## Today I Learned
 
