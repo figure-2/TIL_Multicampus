@@ -99,3 +99,11 @@
 - [function](https://github.com/figure-2/python/blob/master/03_function.ipynb)
     - 함수(Function) : 선언, 호출(실행), return
 - [sw Expert Academy 문제풀기](https://github.com/figure-2/Algorithm/tree/master/swea)
+
+> 230728 학습한 내용 정리
+- [함수](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/04_%ED%95%A8%EC%88%98.md)
+    - 인수 : 위치인수, 기본값, 키워드 인자, 가변 인자 리스트, 정의되지 않은 키우드 인자 처리하기, 딕셔너리를 인자로 넣기 (unpacking)
+- [lambda 표현식, 타입 힌트, 이름공간(scope)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/06_lambda_%ED%83%80%EC%9E%85%ED%9E%8C%ED%8A%B8_%EC%9D%B4%EB%A6%84%EA%B3%B5%EA%B0%84.md)
+- [재귀(recursive)](https://github.com/figure-2/TIL_Multicampus/blob/master/02_python/07_%EC%9E%AC%EA%B7%80.md)    
+    -   팩토리얼(반복, 재귀), 피보나치수열(반복, 재귀)
+- [programmers 문제풀기](https://github.com/figure-2/Algorithm/tree/master/programmers)
