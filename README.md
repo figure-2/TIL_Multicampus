@@ -85,4 +85,9 @@
 - [가상환경](01_git/3_가상환경.md)
 - 충돌 테스트
 
-
+> 230726 학습한 내용 정리
+- [python intro](https://github.com/figure-2/python/blob/master/01_intro.ipynb)
+    - 변수, 연산자, 형변환, 시퀀스 자료형, 시퀀스 데이터가 아닌 자료구조
+- python_control_of_flow
+    - [제어문](https://github.com/figure-2/python/blob/master/02_control_of_flow.ipynb)
+        - 조건문(if문), 조건문(elif문), 조건표현식
