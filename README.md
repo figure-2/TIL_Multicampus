@@ -40,5 +40,8 @@
 > 13_Linux-git-command
 - Linux, git, markdown command
 
+> 14_Data_Analysis
+- 데이터 분석
+
 ## Today I Learned
 
