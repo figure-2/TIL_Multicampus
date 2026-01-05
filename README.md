@@ -37,5 +37,8 @@
 > 12_Deploy
 - 풀스택프로그래밍 미니 프로젝트 2 AWS 배포
 
+> 13_Linux-git-command
+- Linux, git, markdown command
+
 ## Today I Learned
 
