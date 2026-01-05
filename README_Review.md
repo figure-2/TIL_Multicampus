@@ -161,13 +161,13 @@
 - Project : Balance Game 웹 페이지 만들기
 
 > 230904 학습한 내용 정리
-- 진행 폴더명 : SQL, ORMSQL
-- [SQL 기본 문법](https://github.com/figure-2/TIL_Multicampus/blob/master/06_SQL/1_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
-- [Django를 활용하여 SQL 구문 작성 및 ORM문과 비교](https://github.com/figure-2/TIL_Multicampus/blob/master/06_SQL/2_Django_ORM%EB%B9%84%EA%B5%90.md)
+- 진행 폴더명 : [SQL, ORMSQL](https://github.com/figure-2/TIL_Multicampus/tree/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/07_SQL)
+- [SQL 기본 문법](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/07_SQL/1_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
+- [Django를 활용하여 SQL 구문 작성 및 ORM문과 비교](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/07_SQL/2_Django_ORM%EB%B9%84%EA%B5%90.md)
 
 > 230905 학습한 내용 정리
-- 진행 폴더명 : beginner-html-site-styled-gh-pages
-- [javascripts 기초 문법 연습, django에 javascripts 적용, like 기능 ajax처리](https://github.com/figure-2/TIL_Multicampus/blob/master/05_WEB/9_Django_Signup_Login.md)
+- 진행 폴더명 : [beginner-html-site-styled-gh-pages](https://github.com/figure-2/TIL_Multicampus/tree/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB)
+- [javascripts 기초 문법 연습, django에 javascripts 적용, like 기능 ajax처리](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/06_WEB/13_JavaScript.md)
 
 > 230906 학습한 내용 정리
 - 진행 폴더명 : insta
@@ -179,28 +179,28 @@
 
 > 230911 학습한 내용 정리
 - python 3.10.11 설치 및 pandas, numpy, matplotlib, seaborn 라이브러리 설치
-- [자동차리콜데이터 수집, 분석, 시각화](https://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.md)
-- [iris, titanic 데이터 EDA](https://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/2_EDA.md) (진행중)
+- [자동차리콜데이터 수집, 분석, 시각화](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.md)
+- [iris, titanic 데이터 EDA](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/2_EDA.md) (진행중)
 
 > 230912 학습한 내용 정리
-- [iris, titanic 데이터 EDA](hhttps://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/2_EDA.md)
-- [matplotlib 시각화 확장](https://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/3_Matplotlib.md)
-- [EDA 툴](https://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/2_EDA.md) : 가상환경 설정 및 sweetviz설치
+- [iris, titanic 데이터 EDA](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/2_EDA.md)
+- [matplotlib 시각화 확장](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/3_Matplotlib.md)
+- [EDA 툴](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/2_EDA.md) : 가상환경 설정 및 sweetviz설치
 - 자동차 리콜 3년 데이터 분석(과제)
 
 > 230913 학습한 내용 정리
-- [머신러닝](https://github.com/figure-2/TIL_Multicampus/blob/master/08_DataAnalysis/4_머신러닝(일단대기).md) - 이론/기본, 데이터셋 분리(train/test), 선형회귀분석모델, 농어 길이로 무게 예측
+- [머신러닝](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/10_DataAnalysis/4_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%9D%BC%EB%8B%A8%EB%8C%80%EA%B8%B0).md) - 이론/기본, 데이터셋 분리(train/test), 선형회귀분석모델, 농어 길이로 무게 예측
 
 > 230914 학습한 내용 정리
-- [평가척도](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/4_%ED%8F%89%EA%B0%80%EC%B2%99%EB%8F%84.md) - 선형회귀모델
-- [알고리즘](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/5_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) - 결정트리, KNN
-- [전처리](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/2_%EC%A0%84%EC%B2%98%EB%A6%AC.md) - 인코딩(label 방법)
-- [농어길이무게예측](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/6_%EB%86%8D%EC%96%B4%EA%B8%B8%EC%9D%B4%EB%AC%B4%EA%B2%8C%EC%98%88%EC%B8%A1.md) - 평가지표 : 단순선형회귀 / 모델+평가지표 : 다항선형회귀, 결정트리, KNN
+- [평가척도](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/4_%ED%8F%89%EA%B0%80%EC%B2%99%EB%8F%84.md) - 선형회귀모델
+- [알고리즘](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/5_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) - 결정트리, KNN
+- [전처리](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/2_%EC%A0%84%EC%B2%98%EB%A6%AC.md) - 인코딩(label 방법)
+- [농어길이무게예측](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/6_%EB%86%8D%EC%96%B4%EA%B8%B8%EC%9D%B4%EB%AC%B4%EA%B2%8C%EC%98%88%EC%B8%A1.md) - 평가지표 : 단순선형회귀 / 모델+평가지표 : 다항선형회귀, 결정트리, KNN
 
 > 230915 학습한 내용 정리
-- [전처리](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/2_%EC%A0%84%EC%B2%98%EB%A6%AC.md)- 인코딩(원-핫)
-- [현대자동차가격예측](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/7_%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.md) - 모델 : 단순선형회귀, 결정트리, KNN / 평가척도 : 회귀
-- [분류알고리즘](https://github.com/figure-2/TIL_Multicampus/blob/master/09_MachineLearning.md/6_%EB%86%8D%EC%96%B4%EA%B8%B8%EC%9D%B4%EB%AC%B4%EA%B2%8C%EC%98%88%EC%B8%A1.md)- 이론, 평가지표
+- [전처리](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/2_%EC%A0%84%EC%B2%98%EB%A6%AC.md)- 인코딩(원-핫)
+- [현대자동차가격예측](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/7_%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.md) - 모델 : 단순선형회귀, 결정트리, KNN / 평가척도 : 회귀
+- [분류알고리즘](https://github.com/figure-2/TIL_Multicampus/blob/master/02_Review_(%EC%88%98%EC%97%85_%EC%A0%95%EB%A6%AC)/11_MachineLearning/6_%EB%86%8D%EC%96%B4%EA%B8%B8%EC%9D%B4%EB%AC%B4%EA%B2%8C%EC%98%88%EC%B8%A1.md)- 이론, 평가지표
 
 > 230918 학습한 내용 정리
 - [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
@@ -216,29 +216,29 @@
 
 > 230922 학습한 내용 정리
 - 머신러닝 개념, 사이킷런, 데이터전처리 이론 및 실습 진행
-- [구글코랩실습](https://github.com/figure-2/Data_Analysis/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%AA%A8%EB%8D%B8%EA%B3%BC%ED%8F%89%EA%B0%80/01_model_selection_%EB%AA%A8%EB%93%88_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb) : 01_model_selection_모듈_알아보기, 02_데이터_전처리.ipynb
+- [구글코랩실습](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%AA%A8%EB%8D%B8%EA%B3%BC%ED%8F%89%EA%B0%80/01_model_selection_%EB%AA%A8%EB%93%88_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb) : 01_model_selection_모듈_알아보기, 02_데이터_전처리.ipynb
 
 > 230925 학습한 내용 정리
-- [분류모델평가방법](https://github.com/figure-2/Data_Analysis/blob/master/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%AA%A8%EB%8D%B8%EA%B3%BC%ED%8F%89%EA%B0%80/03_%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8_%ED%8F%89%EA%B0%80_%EB%B0%A9%EB%B2%95.ipynb), 분류알고리즘
-- [(트리모델)](https://github.com/figure-2/Data_Analysis/blob/master/5.%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8/04_%ED%8A%B8%EB%A6%AC%EB%AA%A8%EB%8D%B8.ipynb) 이론 및 실습 진행
+- [분류모델평가방법](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/2.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%AA%A8%EB%8D%B8%EA%B3%BC%ED%8F%89%EA%B0%80/03_%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8_%ED%8F%89%EA%B0%80_%EB%B0%A9%EB%B2%95.ipynb), 분류알고리즘
+- [(트리모델)](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/5.%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8/04_%ED%8A%B8%EB%A6%AC%EB%AA%A8%EB%8D%B8.ipynb) 이론 및 실습 진행
 
 > 230926 학습한 내용 정리
 - 분류알고리즘 
-    - [앙상블](https://github.com/figure-2/Data_Analysis/blob/master/5.%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8/05_%EC%95%99%EC%83%81%EB%B8%94_%EB%B6%84%EB%A5%98_%EB%AA%A8%EB%8D%B8.ipynb), 
-    - [XGBoost](https://github.com/figure-2/Data_Analysis/blob/master/7.%EB%B6%80%EC%8A%A4%ED%8C%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/06_XGBoost.ipynb), 
-    - [LightGBM](https://github.com/figure-2/Data_Analysis/blob/master/7.%EB%B6%80%EC%8A%A4%ED%8C%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07_LightGBM.ipynb) 이론 및 실습 진행
+    - [앙상블](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/5.%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8/05_%EC%95%99%EC%83%81%EB%B8%94_%EB%B6%84%EB%A5%98_%EB%AA%A8%EB%8D%B8.ipynb), 
+    - [XGBoost](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/7.%EB%B6%80%EC%8A%A4%ED%8C%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/06_XGBoost.ipynb), 
+    - [LightGBM](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/7.%EB%B6%80%EC%8A%A4%ED%8C%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07_LightGBM.ipynb) 이론 및 실습 진행
 
 > 230927 학습한 내용 정리
-- [회귀알고리즘](https://github.com/figure-2/Data_Analysis/blob/master/4.%ED%9A%8C%EA%B7%80%EB%AA%A8%EB%8D%B8/08_%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80_%EB%AA%A8%EB%8D%B8.ipynb) : 선형회귀, 다항회귀, Ridge, Lasso, Logistic
+- [회귀알고리즘](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/4.%ED%9A%8C%EA%B7%80%EB%AA%A8%EB%8D%B8/08_%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80_%EB%AA%A8%EB%8D%B8.ipynb) : 선형회귀, 다항회귀, Ridge, Lasso, Logistic
 
 > 231004 학습한 내용 정리
 - 차원축소 : 
-    - [PCA](https://github.com/figure-2/Data_Analysis/blob/master/8.%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/09_PCA.ipynb), 
-    - [LDA](https://github.com/figure-2/Data_Analysis/blob/master/8.%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/10_LDA.ipynb)
+    - [PCA](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/8.%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/09_PCA.ipynb), 
+    - [LDA](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/8.%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/10_LDA.ipynb)
 - 군집화 : 
-    - [K-Means](https://github.com/figure-2/Data_Analysis/blob/master/6.%EA%B5%B0%EC%A7%91%ED%99%94/11_K_Means%EA%B5%B0%EC%A7%91.ipynb), 
-    - [Meanshift](https://github.com/figure-2/Data_Analysis/blob/master/6.%EA%B5%B0%EC%A7%91%ED%99%94/12_Mean_Shift_%EA%B5%B0%EC%A7%91.ipynb), 
-    - [GMM](https://github.com/figure-2/Data_Analysis/blob/master/6.%EA%B5%B0%EC%A7%91%ED%99%94/13_GMM%EA%B5%B0%EC%A7%91.ipynb)
+    - [K-Means](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/6.%EA%B5%B0%EC%A7%91%ED%99%94/11_K_Means%EA%B5%B0%EC%A7%91.ipynb), 
+    - [Meanshift](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/6.%EA%B5%B0%EC%A7%91%ED%99%94/12_Mean_Shift_%EA%B5%B0%EC%A7%91.ipynb), 
+    - [GMM](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/6.%EA%B5%B0%EC%A7%91%ED%99%94/13_GMM%EA%B5%B0%EC%A7%91.ipynb)
 
 > 231005 학습한 내용 정리
 - 딥러닝 기반 자연어 처리
@@ -253,31 +253,31 @@
 - Algorithm 특강 완료
 
 > 231012 학습한 내용 정리
-- [API 크롤링 진행 (카카오 API)](https://github.com/figure-2/Web-Scraping/blob/master/1_%EC%B9%B4%EC%B9%B4%EC%98%A4_API_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
+- [API 크롤링 진행 (카카오 API)](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/17_Web-Scraping/1_%EC%B9%B4%EC%B9%B4%EC%98%A4_API_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 - 프로젝트 회의
 
 > 231013 학습한 내용 정리
-- [HTML 스크래핑](https://github.com/figure-2/Web-Scraping/blob/master/2_HTML_%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
-- [Web Crawling](https://github.com/figure-2/Web-Scraping/blob/master/3_%EC%8B%A4%EC%8A%B5-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%A6%9D%EA%B6%8C%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
+- [HTML 스크래핑](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/17_Web-Scraping/2_HTML_%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
+- [Web Crawling](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/17_Web-Scraping/3_%EC%8B%A4%EC%8A%B5-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%A6%9D%EA%B6%8C%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 - 프로젝트 회의
 
 > 231016 학습한 내용 정리
-- [딥러닝](https://github.com/figure-2/Data_Analysis/blob/master/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/01_Tensorflow_%EA%B8%B0%EB%B3%B8_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
+- [딥러닝](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/01_Tensorflow_%EA%B8%B0%EB%B3%B8_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
 - 프로젝트 데이터 파악
 
 > 231017 학습한 내용 정리
-- [딥러닝](https://github.com/figure-2/Data_Analysis/blob/master/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/04_CNN_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb):이미지처리(CNN)
+- [딥러닝](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/04_CNN_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb):이미지처리(CNN)
 - 프로젝트 서울시 상권, 주거, 지하철 데이터 전처리
 
 > 231018 학습한 내용 정리
-- [딥러닝](https://github.com/figure-2/Data_Analysis/blob/master/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/03_RNN%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9E%90%EC%97%B0%EC%96%B4%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8.ipynb):자연어처리(RNN)
+- [딥러닝](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/14_Data_Analysis/9.%EB%94%A5%EB%9F%AC%EB%8B%9D/03_RNN%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9E%90%EC%97%B0%EC%96%B4%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8.ipynb):자연어처리(RNN)
 - 프로젝트 데이터 전처리 및 시각화 : GeoPandas
 
 > 231019 학습한 내용 정리
 - 프로젝트 GeoPandas, Folium 활용하여 교통 민원데이터 분석 진행중
 
 > 231020 학습한 내용 정리
-- [Selenium 크롤링](https://github.com/figure-2/Web-Scraping/blob/master/4_Selenium.ipynb)
+- [Selenium 크롤링](https://github.com/figure-2/TIL_Multicampus/blob/master/01_Study_(%EC%88%98%EC%97%85_%EB%82%B4%EC%9A%A9)/17_Web-Scraping/4_Selenium.ipynb)
 - 프로젝트 서울시 상권, 주거, 지하철 데이터 인사이트 정의 및 EDA 진행
 
 > 231023 학습한 내용 정리
