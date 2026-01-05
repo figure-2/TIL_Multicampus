@@ -139,3 +139,7 @@
 - [SWEA_List2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg) - 부분집합
 - [SWEA_String](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/2_String.md) - string, 패턴매칭
 - [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9/sol.py) : 이진탐색, 부분집합의합, 특별정렬, 회문
+
+> 230807 학습한 내용 정리
+- [SWEA_Stack](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/3_Stack.md) - DP(동적계획법), DFS(깊이우선탐색)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC) : 괄호검사, 종이붙이기, 그래프경로
