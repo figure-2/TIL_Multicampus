@@ -148,3 +148,7 @@
 - [SWEA_Stack2](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/3_Stack.md)
 - [SWEA_Queue](https://github.com/dfigure-2/TIL_Multicampus/blob/master/04_SWEA/4_Queue.md)
 - [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/4881_%EB%B0%B0%EC%97%B4%EC%B5%9C%EC%86%8C%ED%95%A9/sol.py) - 배열최소합, 회전, 피자굽기
+
+> 230809 학습한 내용 정리
+- [SWEA_Queue](https://github.com/figure-2/TIL_Multicampus/blob/master/04_SWEA/4_Queue.md)
+- [Algorithm 문제풀기](https://github.com/figure-2/Algorithm/blob/master/swea/5102_%EB%85%B8%EB%93%9C%EA%B1%B0%EB%A6%AC/sol.py) - 피자굽기, 노드의거리, 미로, 미로의거리
